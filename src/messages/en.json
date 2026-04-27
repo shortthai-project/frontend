@@ -1,0 +1,48 @@
+{
+  "HomePage": {
+    "metadata": {
+      "title": "ShortThai - Free and Secure URL Shortening Service",
+      "description": "ShortThai is a URL shortening service that helps you turn long URLs into short, memorable links that are ready to use immediately, along with real-time click tracking statistics."
+    },
+    "title": "Shortthai",
+    "navbar": {
+      "dashboard": "Dashboard",
+      "login": "Log in"
+    },
+    "hero": {
+      "badge": "URL shortening by shortthai",
+      "title": "Shorten links",
+      "highlight": "Simple, fast, secure",
+      "description": "Turn long URLs into short, memorable links that are ready to use immediately, with real-time click tracking."
+    },
+    "form": {
+      "placeholder": "Paste your long URL here...",
+      "submit": "Shorten",
+      "resultLabel": "Your short link",
+      "copy": "Copy",
+      "copied": "Copied"
+    },
+    "features": {
+      "analytics": {
+        "title": "Track analytics",
+        "description": "Monitor clicks, user behavior, and key metrics in real time."
+      },
+      "security": {
+        "title": "Secure",
+        "description": "Detect malicious links and protect your data with strong safeguards."
+      },
+      "speed": {
+        "title": "Fast",
+        "description": "Create a short link in seconds and start using it right away."
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "description": "Create short links for free and unlock more powerful features by signing up today.",
+      "button": "Get started"
+    },
+    "footer": {
+      "copyright": "© 2026 shortthai - Thai URL shortening service"
+    }
+  }
+}
